@@ -1,8 +1,8 @@
-# Phase 1 Final Project - Campus Graded
+# Phase 1 Final Project - Online
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Phase 1. This version is for campus students whose projects will be graded using the Phase 1 Campus Project Rubric.
+In this lesson, we'll review all of the guidelines and specifications for the final project for Phase 1. 
 
 ## Objectives
 
@@ -11,6 +11,7 @@ You will be able to:
 * Describe all required aspects of the final project for Module 1
 * Describe all required deliverables
 * Describe what constitutes a successful project
+* Describe what the experience of the project review should be like
 
 ## Final Project Summary
 
@@ -42,8 +43,6 @@ For online students, there will be five deliverables for this project (Note: On-
 3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
 4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1)**
 5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
-
-Note: On-campus students may have different requirements, please speak with your instructor.
 
 ### Jupyter Notebook Must-Haves
 
@@ -78,10 +77,7 @@ Your presentation should:
 
 Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1) for the technical requirements and blog ideas.
 
-
-
 ## The Process
-(Note: On-campus students may have different processes, please speak with your instructor)
 
 ### 1. Getting Started
 
@@ -92,8 +88,6 @@ Be sure to let the instructor team know when you’ve started working on a proje
 Once you're done with the 10 sections in Phase 1, please start on the project. Do that by forking this repository, cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a pdf of your presentation to the repository with a file name of `presentation.pdf`.
 
 ### 2. The Project Review
-
-_Note: On-campus students may have different review processes, please speak with your instructor._
 
 > **When you start on the project, please also reach out to an instructor immediately to schedule your project review** (if you're not sure who to schedule with, please ask in Slack!)
 
@@ -133,17 +127,18 @@ What won't happen:
 
 **Please note: We need to receive the URL of your repository at least 24 hours before and please have the project finished at least 3 hours before your review so we can look at your materials in advance.**
 
-
 ## Submitting your Project
 
- You’re almost done! In order to submit your project for review, include the following links to your work in the corresponding fields on the right-hand side of Learn.
+**NEEDS TO BE OVERHAULED**
 
- 1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).)
+You’re almost done! In order to submit your project for review, include the following links to your work in the corresponding fields on the right-hand side of Learn.
+
+1. **GitHub Repo:** Now that you’ve completed your project in Jupyter Notebooks, push your work to GitHub and paste that link to the right. (If you need help doing so, review the resources [here](https://docs.google.com/spreadsheets/d/1CNGDhjcQZDRx2sWByd2v-mgUOjy13Cd_hQYVXPuzEDE/edit#gid=0).)
 _Reminder: Make sure to also add and commit a pdf of your non-technical presentation to the repository with a file name of presentation.pdf._
 2. **Blog Post:** Include a link to your blog post.
 3. **Record Walkthrough:** Include a link to your video walkthrough.
 
- Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
+Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
 
 ## Grading Rubric
 

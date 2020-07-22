@@ -36,7 +36,7 @@ You may scrape or make API calls to get additional data, but included in the rep
 
 # The Deliverables
 
-For online students, there will be five deliverables for this project:
+There are five deliverables for this project:
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
 2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.

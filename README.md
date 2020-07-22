@@ -8,7 +8,7 @@ In this lesson, we'll review all of the guidelines and specifications for the fi
 
 You will be able to:
 
-* Describe all required aspects of the final project for Module 1
+* Describe all required aspects of the final project for Phase 1
 * Describe all required deliverables
 * Describe what constitutes a successful project
 * Describe what the experience of the project review should be like

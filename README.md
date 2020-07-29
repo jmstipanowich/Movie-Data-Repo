@@ -143,9 +143,13 @@ You will need to submit all four PDF files as a single submission:
 
 You will need to upload your presentation as a media comment on your submitted assignment:
 
-1. Click 
+**TO BE COMPLETED**
+
+1.  
 2. 
 3. 
+
+Files must be smaller than 500 MB to upload and only the following video formats are supported: FLV, ASF, QT, MOV, MPEG, AVI, M4V, WMV, MP4, 3GP 
 
 ## Project Review
 

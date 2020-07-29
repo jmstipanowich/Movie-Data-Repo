@@ -95,7 +95,7 @@ Your blog post is your opportunity to communicate to a wider audience about your
 
 Please start by reviewing this document. If you have any questions, please ask them in Slack ASAP so (a) we can answer the questions and (b) so we can update this document to make it clearer.
 
-Be sure to let the instructor team know when you’ve started working on a project, either by reaching out over Slack or, if you are in a full-time or part-time cohort, by connecting with your Cohort Lead in your weekly 1:1. If you’re not sure who to reach out to, post in your cohort channel in Slack.
+**When you start on the project, reach out to an instructor immediately via Slack to let them know and schedule your project review.** If you're not sure who to schedule with, please ask in your cohort channel in Slack.
 
 Once you're done with the numbered modules in Phase 1, please start on the project. Do that by forking [this repository], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
@@ -148,8 +148,6 @@ You will need to upload your presentation as a media comment on your submitted a
 3. 
 
 ## Project Review
-
-> **When you start on the project, please also reach out to an instructor immediately to schedule your project review** (if you're not sure who to schedule with, please ask in Slack!)
 
 ### What to expect from the Project Review
 

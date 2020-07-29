@@ -19,7 +19,7 @@ You've made it all the way through the first phase of this course - take a minut
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
 
-All that remains in Phase 1 is to put our newfound data science skills to use with a final project! This project will take an entire week to complete. 
+All that remains in Phase 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "Level Up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
 
 ### Business Problem
 
@@ -35,7 +35,7 @@ In the folder `zippedData` are movie datasets from:
 * Rotten Tomatoes
 * TheMovieDB.org
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed, we recommend you use only the following data files:
 
 * imdb.title.basics
 * imdb.title.ratings
@@ -43,18 +43,15 @@ It is up to you to decide what data from this to use and how to use it. If you w
 
 ## Deliverables
 
-There are four deliverables for this project:
+There are five deliverables for this project:
 
 1. A **GitHub repository**
 2. A **Jupyter Notebook**
-3. A **Non-technical presentation**
-4. A **Blog post**
+3. A non-technical presentation **slide deck**
+4. A non-technical presentation **recording**
+5. A **blog post**
 
 Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
-
-We provide a few resources to help you understand what makes for good deliverables. 
-- The rubric associated with this assignment 
-- [A template for you to use, with an example for reference][]. 
 
 ### GitHub Repository
 
@@ -64,19 +61,53 @@ Your GitHub repository is the public-facing version of your project that your in
 
 Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
 
+For this project, your Jupyter Notebook should meet the following specifications:
+
+#### Organization/Code Cleanliness
+
+* The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
+    * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
+* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
+
+#### Visualizations & EDA
+
+* Your project contains at least 4 meaningful data visualizations, with corresponding interpretations. All visualizations are well labeled with axes labels, a title, and a legend (when appropriate)  
+* You pose at least 3 meaningful questions and answer them through EDA.  These questions should be well labeled and easy to identify inside the notebook.
+    * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
+* Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
+
 ### Non-Technical Presentation
 
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation.
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. We recommend using Zoom, Quicktime, PowerPoint, or Nimbus to record your live presentation.
+
+Your presentation should:
+
+* Contain between 5 - 10 professional-quality slides.  
+    * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
+* Take no more than 5 minutes to present.   
+* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
 
 ### Blog Post
 
 Your blog post is your opportunity to communicate to a wider audience about your project or what you've learned while doing it. The target audience is your peers in the broader data science community. Refer to the [blogging guidelines][] for blog requirements and ideas.
 
+## Getting Started
+
+Please start by reviewing this document. If you have any questions, please ask them in Slack ASAP so (a) we can answer the questions and (b) so we can update this document to make it clearer.
+
+Be sure to let the instructor team know when you’ve started working on a project, either by reaching out over Slack or, if you are in a full-time or part-time cohort, by connecting with your Cohort Lead in your weekly 1:1. If you’re not sure who to reach out to, post in your cohort channel in Slack.
+
+Once you're done with the numbered modules in Phase 1, please start on the project. Do that by forking [this repository], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+
+We also recommend you check out [this project template and example][]. You can use this template for your project repository and presentation.
+
 ## Submitting your Project
 
-To submit your project, you will need to create and upload PDF versions of the four project deliverables. 
+To submit your project in Canvas, you will need to create and upload PDF versions of four project deliverables. After your project is submitted, you must then add a media comment with the recording of your live presentation. 
 
-### Presentation PDF Creation
+**Please note: We need to receive you submission at least 24 hours before your review to confirm that you are prepared for the review. You are welcome to re-submit your assignment with revisions up to 3 hours before your review so that we can have time to look at your materials in advance of the review.**
+
+### Presentation Slides PDF Creation
 
 1. Save or export your presentation as a PDF from the program you created it in. 
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
@@ -108,34 +139,61 @@ You will need to submit all four PDF files as a single submission:
 
 ![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/project_pdf_submission.gif)
 
+### Presentation Recording Submission
+
+You will need to upload your presentation as a media comment on your submitted assignment:
+
+1. Click 
+2. 
+3. 
+
 ## Project Review
 
-You have until the end of the week to present and submit your project. All students must complete all project deliverables and submit them by the end of the week to proceed to the next phase. The process for reviewing your project will depend on whether you passed the code challenge.
+> **When you start on the project, please also reach out to an instructor immediately to schedule your project review** (if you're not sure who to schedule with, please ask in Slack!)
 
-### Passed Code Challenge: Check for Completion
+### What to expect from the Project Review
 
-If you passed the code challenge, your teacher will review your project to ensure that you have submitted all of the required project deliverables. While you may find this assignment's rubric helpful for guiding your project, it will not be used to evaluate your submission.
+Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commenting on that is seldom a good choice)*.
 
-### Did Not Pass Code Challenge: Rubric Scoring
+The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
 
-If you did not pass the code challenge, your teacher will use the rubric below to grade your submission. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
+### 1. Deliver your PDF presentation to a non-technical stakeholder.
+In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation  should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
 
-*  0% to 29% = 1
-* 30% to 49% = 2
-* 50% to 69% = 3
-* 70% to 89% = 4
-* 90% to 100% = 5
+In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
 
-Your teacher will grade your submission and give you feedback sometime during the week after you submit.
+### 2. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
+    * "How did you pick the question(s) that you did?"
+    * "Why are these questions important from a business perspective?"
+    * "How did you decide on the data cleaning options you performed?"
+    * "Why did you choose a given method or library?"
+    * "Why did you select those visualizations and what did you learn from each of them?"
+    * "Why did you pick those features as predictors?"
+    * "How would you interpret the results?"
+    * "How confident are you in the predictive quality of the results?"
+    * "What are some of the things that could cause the results to be wrong?"
+
+Think of the first phase of the review (~30 mins) as a technical boss reviewing your work and asking questions about it before green-lighting you to present to the business team. You should practice using the appropriate technical vocabulary to explain yourself. Don't be surprised if the instructor jumps around or sometimes cuts you off - there is a lot of ground to cover, so that may happen.
+
+If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
+* Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
+* Submit an improved version
+* Meet again for another Project Review
+
+What won't happen:
+* You won't be yelled at, belittled, or scolded
+* You won't be put on the spot without support
+* There's nothing you can do to instantly fail or blow it
 
 ## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+The end-of-phase projects and project reviews are a critical part of the program. They give you a chance to both bring together all the skills you've learned into realistic projects and to practice key "business judgement" and communication skills that you otherwise might not get as much practice with.
 
-## Tips
+The projects are serious and important. They are not graded, but they can be passed and they can be failed. Take the project seriously, put the time in, ask for help from your peers or instructors early and often if you need it, and treat the review as a job interview and you'll do great. We're rooting for you to succeed and we're only going to ask you to take a review again if we believe that you need to. We'll also provide open and honest feedback so you can improve as quickly and efficiently as possible.
 
-Ask for help from your peers or instructors early and often.
+Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
 
-[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template 
+[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template 
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
+[this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online

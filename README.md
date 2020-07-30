@@ -111,7 +111,7 @@ To submit your project in Canvas, you will need to create and upload PDF version
 
 ### Presentation Slides PDF Creation
 
-1. Save or export your presentation as a PDF from the program you created it in. 
+1. Save or export your presentation as a PDF from the program in which you created it. 
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
@@ -123,11 +123,17 @@ To submit your project in Canvas, you will need to create and upload PDF version
 
 ![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/repo_pdf.gif)
 
-### Jupyter Notebook & Blog PDF Creation
+### Blog Post PDF Creation
 
-1. Open your Notebook/blog post in your browser (we recommend Google Chrome).
+1. Open the webpage where your blog is published in your browser (we recommend Google Chrome).
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
 3. Give it a short descriptive file name (e.g. `blog.pdf`).
+
+### Jupyter Notebook PDF Creation
+
+1. Open your Notebook in your browser (we recommend Google Chrome).
+2. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
+3. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
 ### PDF Submission in Canvas
 

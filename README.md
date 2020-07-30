@@ -76,7 +76,7 @@ For this project, your Jupyter Notebook should meet the following specifications
     * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
 * Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
 
-### Non-Technical Presentation
+### Non-Technical Presentation Slides and Recording
 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. 
 
@@ -202,4 +202,4 @@ Finally, this is your first project. We don't expect you to remember all of the 
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
 [this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
 [instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
-[Record your live presentation to a video file on your computer]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online/blob/master/README.md#non-technical-presentation
+[Record your live presentation to a video file on your computer]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online/blob/master/README.md#non-technical-presentation-slides-and-recording

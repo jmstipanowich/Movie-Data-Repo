@@ -107,7 +107,7 @@ We also recommend you check out [this project template and example][]. You can u
 
 To submit your project in Canvas, you will need to create and upload PDF versions of four project deliverables. After your project is submitted, you must then add a media comment with the recording of your live presentation. 
 
-**Please note: We need to receive you submission at least 24 hours before your review to confirm that you are prepared for the review. If you wish to revise your submission, please do so no later than 3 hours before your review so that we can have time to look at your materials in advance.**
+**Please note: We need to receive your complete submission at least 24 hours before your review to confirm that you are prepared for the review. If you wish to revise your submission, please do so no later than 3 hours before your review so that we can have time to look at your updated materials.**
 
 ### Presentation Slides PDF Creation
 

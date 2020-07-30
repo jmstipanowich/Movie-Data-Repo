@@ -191,7 +191,7 @@ What won't happen:
 
 ### Scoring
 
-Your teacher will use the rubric at the bottom of this assignment to grade your project. You will receive a 1-5 score based on the criteria below - a 3 is considered passing.
+Your teacher will use the rubric at the bottom of this assignment to grade your project. You will receive a L1-5 score based on the criteria below - L3 or above is considered passing.
 
 * L1: Most rubric elements are "Developing"
 * L2: Some rubric elements are "Developing"

@@ -78,14 +78,16 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 ### Non-Technical Presentation
 
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. We recommend using Zoom, Quicktime, PowerPoint, or Nimbus to record your live presentation.
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. 
 
 Your presentation should:
 
 * Contain between 5 - 10 professional-quality slides.  
     * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
 * Take no more than 5 minutes to present.   
-* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
+* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences. 
+
+We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. We recommend using Zoom to record your live presentation to a local video file ([instructions here]) - other options include Quicktime, PowerPoint, or Nimbus. Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
 
 ### Blog Post
 
@@ -141,9 +143,9 @@ You will need to submit all four PDF files as a single submission:
 
 ### Presentation Recording Submission
 
-You will need to upload your presentation as a media comment on your submitted assignment:
+You will need to upload your presentation recording as a media comment on your submitted assignment:
 
-1. Record your live presentation to a video file on your computer (we recommend Zoom, [instructions here]). Files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
+1. [Record your live presentation to a video file on your computer][].
 2. Click "Submission Details" on the top right of this page.
 3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
 4. Click "Upload Media" and "Select Video File" to upload your file.
@@ -200,3 +202,4 @@ Finally, this is your first project. We don't expect you to remember all of the 
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
 [this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
 [instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
+[Record your live presentation to a video file on your computer]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online/blob/master/README.md#non-technical-presentation

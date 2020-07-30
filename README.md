@@ -193,11 +193,11 @@ What won't happen:
 
 Your teacher will use the rubric at the bottom of this assignment to grade your project. You will receive a 1-5 score based on the criteria below - a 3 is considered passing.
 
-* 1: Most rubric elements are "Developing"
-* 2: Some rubric elements are "Developing"
-* 3: All rubric elements are "Accomplished" or "Exemplary"
-* 4: All rubric elements are "Accomplished" or "Exemplary", multiple "Exemplary"
-* 5: All rubric elements are "Accomplished" or "Exemplary", mostly "Exemplary"
+* L1: Most rubric elements are "Developing"
+* L2: Some rubric elements are "Developing"
+* L3: All rubric elements are "Accomplished" or "Exemplary"
+* L4: All rubric elements are "Accomplished" or "Exemplary", multiple "Exemplary"
+* L5: All rubric elements are "Accomplished" or "Exemplary", mostly "Exemplary"
 
 Your teacher will grade your project and give you feedback sometime the week after your review.
 

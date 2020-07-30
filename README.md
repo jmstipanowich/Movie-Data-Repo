@@ -143,13 +143,13 @@ You will need to submit all four PDF files as a single submission:
 
 You will need to upload your presentation as a media comment on your submitted assignment:
 
-**TO BE COMPLETED**
+1. Record your live presentation to a video file on your computer (we recommend Zoom, [instructions here]). Files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
+2. Click "Submission Details" on the top right of this page.
+3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
+4. Click "Upload Media" and "Select Video File" to upload your file.
+5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
 
-1.  
-2. 
-3. 
-
-Files must be smaller than 500 MB to upload and only the following video formats are supported: FLV, ASF, QT, MOV, MPEG, AVI, M4V, WMV, MP4, 3GP 
+![Video Recording Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/video_recording_submission.gif)
 
 ## Project Review
 
@@ -199,3 +199,4 @@ Finally, this is your first project. We don't expect you to remember all of the 
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
 [this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
+[instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording

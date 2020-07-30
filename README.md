@@ -17,7 +17,7 @@ You will be able to:
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/awesome.gif)
 
 All that remains in Phase 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "Level Up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
 
@@ -121,7 +121,7 @@ To submit your project in Canvas, you will need to create and upload PDF version
 2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
 3. Give it a short descriptive file name (e.g. `github.pdf`).
 
-![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/repo_pdf.gif)
+![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/repo_pdf.gif)
 
 ### Jupyter Notebook & Blog PDF Creation
 
@@ -139,7 +139,7 @@ You will need to submit all four PDF files as a single submission:
 4. Repeat Step 3 two times to upload two more files. After this is done, all four files should be uploaded.
 5. Hit the blue "Submit Assignment" button.
 
-![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/project_pdf_submission.gif)
+![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/project_pdf_submission.gif)
 
 ### Presentation Recording Submission
 
@@ -151,7 +151,7 @@ You will need to upload your presentation recording as a media comment on your s
 4. Click "Upload Media" and "Select Video File" to upload your file.
 5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
 
-![Video Recording Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/video_recording_submission.gif)
+![Video Recording Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/video_recording_submission.gif)
 
 ## Project Review
 

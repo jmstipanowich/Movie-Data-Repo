@@ -189,6 +189,18 @@ What won't happen:
 * You won't be put on the spot without support
 * There's nothing you can do to instantly fail or blow it
 
+### Scoring
+
+Your teacher will use the rubric at the bottom of this assignment to grade your project. You will receive a 1-5 score based on the criteria below - a 3 is considered passing.
+
+* 1: Most rubric elements are "Developing"
+* 2: Some rubric elements are "Developing"
+* 3: All rubric elements are "Accomplished" or "Exemplary"
+* 4: All rubric elements are "Accomplished" or "Exemplary", multiple "Exemplary"
+* 5: All rubric elements are "Accomplished" or "Exemplary", mostly "Exemplary"
+
+Your teacher will grade your project and give you feedback sometime the week after your review.
+
 ## Summary
 
 The end-of-phase projects and project reviews are a critical part of the program. They give you a chance to both bring together all the skills you've learned into realistic projects and to practice key "business judgement" and communication skills that you otherwise might not get as much practice with.

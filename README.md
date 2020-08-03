@@ -19,7 +19,7 @@ You've made it all the way through the first phase of this course - take a minut
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/awesome.gif)
 
-All that remains in Phase 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "Level Up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
+All that remains in Phase 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "Level Up" suggestions. If you're worried that you're going to get to 30 hours and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
 
 ### Business Problem
 
@@ -55,7 +55,7 @@ Keep in mind that the audience for these deliverables is not only your teacher, 
 
 ### GitHub Repository
 
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository. 
+Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
 
 ### Jupyter Notebook
 
@@ -78,14 +78,14 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 ### Non-Technical Presentation Slides and Recording
 
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. 
+Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development.
 
 Your presentation should:
 
 * Contain between 5 - 10 professional-quality slides.  
     * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
 * Take no more than 5 minutes to present.   
-* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences. 
+* Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.
 
 We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. We recommend using Zoom to record your live presentation to a local video file ([instructions here]) - other options include Quicktime, PowerPoint, or Nimbus. Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
 
@@ -105,13 +105,13 @@ We also recommend you check out [this project template and example][]. You can u
 
 ## Submitting your Project
 
-To submit your project in Canvas, you will need to create and upload PDF versions of four project deliverables. After your project is submitted, you must then add a media comment with the recording of your live presentation. 
+To submit your project in Canvas, you will need to create and upload PDF versions of four project deliverables. After your project is submitted, you must then add a media comment with the recording of your live presentation. You will also need to submit URLs to your GitHub repository and blog post in separate assignments.
 
 **Please note: We need to receive your complete submission at least 24 hours before your review to confirm that you are prepared for the review. If you wish to revise your submission, please do so no later than 3 hours before your review so that we can have time to look at your updated materials.**
 
 ### Presentation Slides PDF Creation
 
-1. Save or export your presentation as a PDF from the program in which you created it. 
+1. Save or export your presentation as a PDF from the program in which you created it.
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
 3. Include a copy of the PDF in your GitHub repository.
 
@@ -160,6 +160,13 @@ You will need to upload your presentation recording as a media comment on your s
 
 ![Video Recording Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/video_recording_submission.gif)
 
+### URL Submission in Canvas
+
+There are two additional Canvas assignments where you will need to enter the URLs for your GitHub Repository and blog post. These are listed in the "Phase 1" module in this course.
+
+* Phase 1 Final Project - GitHub Repository URL
+* Phase 1 Final Project - Blog Post URL
+
 ## Project Review
 
 ### What to expect from the Project Review
@@ -198,25 +205,17 @@ What won't happen:
 
 ### Scoring
 
-Your teacher will use the rubric at the bottom of this assignment to grade your project. You will receive a L1-5 score based on the criteria below - L3 or above is considered passing.
-
-* L1: Most rubric elements are "Developing"
-* L2: Some rubric elements are "Developing"
-* L3: All rubric elements are "Accomplished" or "Exemplary"
-* L4: All rubric elements are "Accomplished" or "Exemplary", multiple "Exemplary"
-* L5: All rubric elements are "Accomplished" or "Exemplary", mostly "Exemplary"
-
-Your teacher will grade your project and give you feedback sometime the week after your review.
+Your teacher will use the rubric at the bottom of this assignment to grade your project. In order to pass, you must score "Accomplished" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically sometime the week after your review.
 
 ## Summary
 
 The end-of-phase projects and project reviews are a critical part of the program. They give you a chance to both bring together all the skills you've learned into realistic projects and to practice key "business judgement" and communication skills that you otherwise might not get as much practice with.
 
-The projects are serious and important. They are not graded, but they can be passed and they can be failed. Take the project seriously, put the time in, ask for help from your peers or instructors early and often if you need it, and treat the review as a job interview and you'll do great. We're rooting for you to succeed and we're only going to ask you to take a review again if we believe that you need to. We'll also provide open and honest feedback so you can improve as quickly and efficiently as possible.
+The projects are serious and important - they can be passed and they can be failed. Take the project seriously, put the time in, ask for help from your peers or instructors early and often if you need it, and treat the review as a job interview and you'll do great. We're rooting for you to succeed and we're only going to ask you to take a review again if we believe that you need to. We'll also provide open and honest feedback so you can improve as quickly and efficiently as possible.
 
 Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
 
-[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template 
+[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
 [blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
 [Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
 [this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online

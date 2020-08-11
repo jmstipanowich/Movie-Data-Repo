@@ -43,7 +43,7 @@ It is up to you to decide what data from this to use and how to use it. If you w
 
 ## Deliverables
 
-There are five deliverables for this project:
+There are four deliverables for this project:
 
 1. A **GitHub repository**
 2. A **Jupyter Notebook**

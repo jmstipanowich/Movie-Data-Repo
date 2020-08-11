@@ -49,7 +49,6 @@ There are five deliverables for this project:
 2. A **Jupyter Notebook**
 3. A non-technical presentation **slide deck**
 4. A non-technical presentation **recording**
-5. A **blog post**
 
 Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
@@ -87,11 +86,7 @@ Your presentation should:
 * Take no more than 5 minutes to present.   
 * Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.
 
-We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. We recommend using Zoom to record your live presentation to a local video file ([instructions here]) - other options include Quicktime, PowerPoint, or Nimbus. Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
-
-### Blog Post
-
-Your blog post is your opportunity to communicate to a wider audience about your project or what you've learned while doing it. The target audience is your peers in the broader data science community. Refer to the [blogging guidelines][] for blog requirements and ideas.
+We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. We recommend using Zoom to record your live presentation to a local video file ([instructions here][]) - other options include Quicktime, PowerPoint, or Nimbus. Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
 
 ## Getting Started
 
@@ -99,113 +94,15 @@ Please start by reviewing this document. If you have any questions, please ask t
 
 **When you start on the project, reach out to an instructor immediately via Slack to let them know and schedule your project review.** If you're not sure who to schedule with, please ask in your cohort channel in Slack.
 
-Once you're done with the numbered modules in Phase 1, please start on the project. Do that by forking [this repository], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+Once you're done with the numbered topics in Phase 1, please start on the project. Do that by forking [the Phase 1 Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
 We also recommend you check out [this project template and example][]. You can use this template for your project repository and presentation.
 
-## Submitting your Project
+## Project Submission and Review
 
-To submit your project in Canvas, you will need to create and upload PDF versions of four project deliverables. After your project is submitted, you must then add a media comment with the recording of your live presentation. You will also need to submit URLs to your GitHub repository and blog post in separate assignments.
+Review [the Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
 **Please note: We need to receive your complete submission at least 24 hours before your review to confirm that you are prepared for the review. If you wish to revise your submission, please do so no later than 3 hours before your review so that we can have time to look at your updated materials.**
-
-### Presentation Slides PDF Creation
-
-1. Save or export your presentation as a PDF from the program in which you created it.
-2. Give it a short descriptive file name (e.g. `presentation.pdf`).
-3. Include a copy of the PDF in your GitHub repository.
-
-### GitHub Repository PDF Creation
-
-1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-3. Give it a short descriptive file name (e.g. `github.pdf`).
-
-![Repository PDF Creation](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/repo_pdf.gif)
-
-### Blog Post PDF Creation
-
-1. Open the webpage where your blog is published in your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-3. Give it a short descriptive file name (e.g. `blog.pdf`).
-
-### Jupyter Notebook PDF Creation
-
-1. Open your Notebook in your browser (we recommend Google Chrome).
-2. Run the Notebook from start to finish so that your output is visible.
-3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions])
-4. Give it a short descriptive file name (e.g. `notebook.pdf`).
-
-### PDF Submission in Canvas
-
-You will need to submit all four PDF files as a single submission:
-
-1. Click "Submit Assignment" at the top of this page.
-2. In the "File Upload" box, click "Choose File" button to upload a single file.
-3. Click the "Add Another File" link to upload an additional file.
-4. Repeat Step 3 two times to upload two more files. After this is done, all four files should be uploaded.
-5. Hit the blue "Submit Assignment" button.
-
-![Project PDF Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/project_pdf_submission.gif)
-
-### Presentation Recording Submission
-
-You will need to upload your presentation recording as a media comment on your submitted assignment:
-
-1. [Record your live presentation to a video file on your computer][].
-2. Click "Submission Details" on the top right of this page.
-3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
-4. Click "Upload Media" and "Select Video File" to upload your file.
-5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
-
-![Video Recording Submission](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-online/master/video_recording_submission.gif)
-
-### URL Submission in Canvas
-
-There are two additional Canvas assignments where you will need to enter the URLs for your GitHub Repository and blog post. These are listed in the "Phase 1 Milestones" module in this course.
-
-* Phase 1 Final Project - GitHub Repository URL
-* Phase 1 Final Project - Blog Post URL
-
-## Project Review
-
-### What to expect from the Project Review
-
-Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commenting on that is seldom a good choice)*.
-
-The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
-
-### 1. Deliver your PDF presentation to a non-technical stakeholder.
-In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation  should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
-
-In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
-
-### 2. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
-    * "How did you pick the question(s) that you did?"
-    * "Why are these questions important from a business perspective?"
-    * "How did you decide on the data cleaning options you performed?"
-    * "Why did you choose a given method or library?"
-    * "Why did you select those visualizations and what did you learn from each of them?"
-    * "Why did you pick those features as predictors?"
-    * "How would you interpret the results?"
-    * "How confident are you in the predictive quality of the results?"
-    * "What are some of the things that could cause the results to be wrong?"
-
-Think of the first phase of the review (~30 mins) as a technical boss reviewing your work and asking questions about it before green-lighting you to present to the business team. You should practice using the appropriate technical vocabulary to explain yourself. Don't be surprised if the instructor jumps around or sometimes cuts you off - there is a lot of ground to cover, so that may happen.
-
-If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
-* Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
-* Submit an improved version
-* Meet again for another Project Review
-
-What won't happen:
-* You won't be yelled at, belittled, or scolded
-* You won't be put on the spot without support
-* There's nothing you can do to instantly fail or blow it
-
-### Scoring
-
-Your teacher will use the rubric at the bottom of this assignment to grade your project. In order to pass, you must score "Accomplished" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically sometime the week after your review.
 
 ## Summary
 
@@ -216,8 +113,6 @@ The projects are serious and important - they can be passed and they can be fail
 Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
 
 [this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
-[blogging guidelines]: https://github.com/learn-co-curriculum/dsc-welcome-blogging-v2-1
-[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[this repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
+[the Phase 1 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
 [instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
-[Record your live presentation to a video file on your computer]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online/blob/master/README.md#non-technical-presentation-slides-and-recording
+[the Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-online

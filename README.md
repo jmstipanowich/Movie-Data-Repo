@@ -94,9 +94,9 @@ Please start by reviewing this document. If you have any questions, please ask t
 
 **When you start on the project, reach out to an instructor immediately via Slack to let them know and schedule your project review.** If you're not sure who to schedule with, please ask in your cohort channel in Slack.
 
-Once you're done with the numbered topics in Phase 1, please start on the project. Do that by forking [the Phase 1 Project Repository][], cloning it locally, and working in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+Once you're done with the numbered topics in Phase 1, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
 
-We also recommend you check out [this project template and example][]. You can use this template for your project repository and presentation.
+Alternatively, you can fork [the Phase 1 Project Repository][], clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
 
 ## Project Submission and Review
 
@@ -112,7 +112,6 @@ The projects are serious and important - they can be passed and they can be fail
 
 Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
 
-[this project template and example]: https://github.com/learn-co-curriculum/dsc-project-template
 [the Phase 1 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-online
 [instructions here]: https://support.zoom.us/hc/en-us/articles/201362473-Local-recording
 [the Phase Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-online

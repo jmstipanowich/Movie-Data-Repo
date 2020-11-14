@@ -1,17 +1,16 @@
-# Movie Data Analysis
+# Microsoft in the Movie Industry
 
-## Introduction
+Author: James Stipanowich
 
-In this lesson, we review the guidelines for the Phase 1 Project.
+## Introduction/Overview
 
-## Objectives/Business Goal
-
+Microsoft wants to create movies, but their movie knowledge is limited and they want knowledge about the movie industry from me. This project explores three questions Microsoft might be able to ask about movies and the movie industry from a specified given group of movie datasets. I will discuss three questions Microsoft may pose about movies and how these questions influence movie making. The researched analyses from the obtained data can provide conclusions on what movies to make and how to go about navigating the movie industry. Also, information on movies could help with future movie anaylses and express how to continue to improve the movie making process.
 
 
 ### Business Problem
 
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired me to help them better understand the movie industry.
+I am charged with exploring three questiosns about what type of films are currently doing the best at the box office. I must translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### The Data
 
@@ -22,16 +21,18 @@ In the folder `zippedData` are movie datasets from:
 * Rotten Tomatoes
 * TheMovieDB.org
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed, we recommend you use only the following data files:
+I was given the choice what data from this to use and how to use it.
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+These datasets were provided to me by Flatiron School for the Microsoft project.
 
-These datasets were provided to me as part of of a project for Flatiron School.
+### Movie Analysis Methods and Results
 
-### Analysis
+
+### Conclusions
+
 
 ### Recommendations for Further Analysis
 
-### Conclusion
+### For More Information
+
+### Repository Structure

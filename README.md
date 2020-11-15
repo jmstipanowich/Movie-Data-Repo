@@ -30,9 +30,24 @@ These datasets were provided to me by Flatiron School for the Microsoft project.
 
 ### Conclusions
 
+- IFC Films, Universal Studios, Paramount Pictures, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
+
+- According to IMDb datasets, "Inception", "The Dark Knight Rises", "Interstellar", "Django Unchained", and "Avengers" are the movies that received the most number of online votes at IMDb.  They are great movies to look into for movie making based on their popularity.
+
+- The "tn" movie dataset that was provided displays a fairly regular relationship between movie budget and domestic gross.  However, there were some higher budget movies in the dataset that might be considered outliers and did not necessarily produce higher domestic gross where as some lower budget movies in the dataset seemed to have the possibility of a slightly higher domestic gross.  The comparison is fairly normal, but there might be greater domestic gross for a movie with a lower production budget.
 
 ### Recommendations for Further Analysis
 
+-
+
+-
+
+-
+
 ### For More Information
+
+- See the full analysis of my findings in my Jupyter notebook pdf
+
+- Contact me at jmstipanowich@gmail.com
 
 ### Repository Structure

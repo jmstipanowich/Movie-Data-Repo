@@ -54,7 +54,7 @@ Another aspect of movie creation that Microsoft might want to look into is how a
 
 How does production budget relate to domestic movie gross for movies?
 
-The answer to this question can be determined used the "tn" dataset. 
+The answer to this question can be determined using the "tn" dataset. 
 
 
 

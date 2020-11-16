@@ -60,6 +60,8 @@ The answer to this question can be determined using the "tn" dataset.
 
 The scatter plot diagram of the comparison between production budget and domestic gross for the "tn" dataset displays that movies have a fairly relative domestic gross in comparison to production budget. However, higher production budgets did not necessarily produce greater domestic gross. Some of the higher value relationships were closer to outlier data. Lower production budgets could have a slightly higher domestic gross in relation to a normal regression line.
 
+Note: My graphs included subsets of 20 values as the random number of values to generate a good dispersion of data.
+
 ### Conclusions
 
 - IFC Films, Universal Studios, Paramount Pictures, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.

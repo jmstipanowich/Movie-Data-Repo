@@ -37,6 +37,7 @@ I looked through a provided movie dataset from the Box Office Mojo website to an
 
 Buena Vista (BV), Warner Brothers(WB), and Paramount/Dreamworks(P/DB) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
 
+![top twenty studios number](MovieDataImages/moviestudios2.png)
 
 This data shows that IFC Films, Universal Studios, and Warner Brothers Studios produced the greatest number of films according to the Box Office Mojo dataset.
 
@@ -46,7 +47,7 @@ What movies got the most votes online?
 
 Movie datasets provided for this project from The Internet Movie Database(IMDb) can answer this question.
 
-
+![movies by num votes](MovieDataImages/pinkgraph.png)
 
 After compiling the data from the IMDb datasets, "Inception", "The Dark Knight Rises", and "Interstellar" were the movies found to receive the most votes in the IMDb movie datasets.
 
@@ -56,7 +57,7 @@ How does production budget relate to domestic movie gross for movies?
 
 The answer to this question can be determined using the "tn" dataset. 
 
-
+![productionbudget vs domestic gross](MovieDataImages/pbdgmovies.png)
 
 The scatter plot diagram of the comparison between production budget and domestic gross for the "tn" dataset displays that movies have a fairly relative domestic gross in comparison to production budget. However, higher production budgets did not necessarily produce greater domestic gross. Some of the higher value relationships were closer to outlier data. Lower production budgets could have a slightly higher domestic gross in relation to a normal regression line.
 

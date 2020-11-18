@@ -27,21 +27,25 @@ These datasets were provided to me by Flatiron School for the Microsoft project.
 
 ### Movie Analysis Methods and Results
 
-Microsoft wants to create movies. They might want to know about which movie studios are popular for producing movies. One question Microsoft might ask is:
+Microsoft wants to create movies. 
+
+Microsoft might want to know about which movie studios are popular for producing movies. One question Microsoft might ask is:
 
 What studios produce the most motion pictures?
 
-I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. . I did two analyses to answer this question. The first analysis determines the numbers of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset. The second analysis determines the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset. 
+I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. . I did two analyses to answer this question. The first analysis determined the numbers of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset:
 
 ![twenty movies studio head](MovieDataImages/moviestudios.png)
 
 Buena Vista (BV), Warner Brothers(WB), and Paramount/Dreamworks(P/DB) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
 
+The second analysis determined the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset 
+
 ![top twenty studios number](MovieDataImages/moviestudios2.png)
 
-This data shows that IFC Films, Universal Studios, and Warner Brothers Studios produced the greatest number of films according to the Box Office Mojo dataset.
+This second analysis shows that IFC Films, Universal Studios, and Warner Brothers Studios produced the greatest number of films according to the Box Office Mojo dataset.
 
-Microsoft might want to look at which movies in general are extremely popular. Microsoft might ask the question:
+Microsoft might want to look at what specific movies in general are extremely popular. Microsoft might ask the question:
 
 What movies got the most votes online?
 
@@ -61,19 +65,19 @@ The answer to this question can be determined using the "tn" dataset.
 
 The scatter plot diagram of the comparison between production budget and domestic gross for the "tn" dataset displays that movies have a fairly relative domestic gross in comparison to production budget. However, higher production budgets did not necessarily produce greater domestic gross. Some of the higher value relationships were closer to outlier data. Lower production budgets could have a slightly higher domestic gross in relation to a normal regression line.
 
-Note: My graphs included subsets of 20 values as the random number of values to generate a good dispersion of data.
+Side note: My graphs included subsets of 20 values as the random number of values to generate a good dispersion of data.
 
 ### Conclusions
 
 - IFC Films, Universal Studios, Paramount Pictures, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
 
-- According to IMDb datasets, "Inception", "The Dark Knight Rises", "Interstellar", "Django Unchained", and "Avengers" are the movies that received the most number of votes at IMDb.  They are great movies to look into for movie making based on their popularity.
+- According to IMDb datasets, "Inception", "The Dark Knight Rises", "Interstellar", "Django Unchained", and "Avengers" are the movies that received the most number of votes at IMDb.  They are great movies to look at for movie making based on their popularity.
 
 - The "tn" movie dataset that was provided displays a fairly regular relationship between movie budget and domestic gross.  However, there were some higher budget movies in the dataset that might be considered outliers and did not necessarily produce higher domestic gross where as some lower budget movies in the dataset seemed to have the possibility of a slightly higher domestic gross.  The comparison is fairly normal, but there might be greater domestic gross for a movie with a lower production budget.
 
 ### Recommendations for Further Analysis
 
-- My analysis could improve with more specific resource information on the 'tn.movie_budgets.csv.gv' . I could not easily decipher the website this dataset relates to from the information provided for this project. I need more information provided on where this dataset came from beyond "tn.movie_budgets.csv.gv".
+- My analysis could improve with more specific resource information on the 'tn.movie_budgets.csv.gv' . I could not easily decipher the website this dataset related to from the information provided for this project. I need more information provided on where this dataset came from beyond "tn.movie_budgets.csv.gv".
 
 - A comparison could be made between production budget and worldwide gross for the "tn" movie dataset.  My analysis only covered the domestic gross for movies within the "tn" movie dataset. 
 

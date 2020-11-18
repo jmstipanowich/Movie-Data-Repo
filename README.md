@@ -1,5 +1,6 @@
 # Microsoft in the Movie Industry
 
+![IMDb movie picture](MovieDataImages/TVlanding.png)
 
 Author: James Stipanowich
 
@@ -32,10 +33,9 @@ What studios produce the most motion pictures?
 
 I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. . I did two analyses to answer this question. The first analysis determines the numbers of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset. The second analysis determines the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset. 
 
-
+![twenty movies studio head](MovieDataImages/moviestudios.png)
 
 Buena Vista (BV), Warner Brothers(WB), and Paramount/Dreamworks(P/DB) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
-
 
 
 This data shows that IFC Films, Universal Studios, and Warner Brothers Studios produced the greatest number of films according to the Box Office Mojo dataset.
@@ -87,4 +87,3 @@ Note: My graphs included subsets of 20 values as the random number of values to 
 - Contact me at jmstipanowich@gmail.com
 
 ### Repository Structure
-

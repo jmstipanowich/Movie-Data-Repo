@@ -28,12 +28,13 @@ These datasets were provided to me by Flatiron School for the Microsoft project.
 ### Movie Analysis Methods and Results
 
 Microsoft wants to create movies. 
+ 
 
-Microsoft might want to know about which movie studios are popular for producing movies. One question Microsoft might ask is:
+Microsoft might want to know about which movie studios are popular for producing movies. A good movie studio choice could help a film succeed. One question Microsoft might ask is:
 
 What studios produce the most motion pictures?
 
-I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. . I did two analyses to answer this question. The first analysis determined the numbers of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset:
+I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. I did two analyses to answer this question. The first analysis determined the numbers of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset:
 
 ![twenty movies studio head](MovieDataImages/moviestudios.png)
 
@@ -45,7 +46,8 @@ The second analysis determined the number of movies created by the top 20 studio
 
 This second analysis shows that IFC Films, Universal Studios, and Warner Brothers Studios produced the greatest number of films according to the Box Office Mojo dataset.
 
-Microsoft might want to look at what specific movies in general are extremely popular. Microsoft might ask the question:
+
+Microsoft might want to look at what specific movies in general are extremely popular. A movie as its own subset can provide a lot of information to a filmmaker. Microsoft might ask the question:
 
 What movies got the most votes online?
 
@@ -53,7 +55,8 @@ Movie datasets provided for this project from The Internet Movie Database(IMDb) 
 
 ![movies by num votes](MovieDataImages/pinkgraph.png)
 
-After compiling the data from the IMDb datasets, "Inception", "The Dark Knight Rises", and "Interstellar" were the movies found to receive the most votes in the IMDb movie datasets.
+After compiling the data from the IMDb datasets, "Inception", "The Dark Knight Rises", and "Interstellar" were the movies found to receive the most votes in the IMDb movie datasets.  These movies can be considered most popular in comparison to the whole dataset.
+
 
 Another aspect of movie creation that Microsoft might want to look into is how a movie production budget and the amount of money the movie makes interrelate. Microsoft might ask:
 
@@ -65,25 +68,25 @@ The answer to this question can be determined using the "tn" dataset.
 
 The scatter plot diagram of the comparison between production budget and domestic gross for the "tn" dataset displays that movies have a fairly relative domestic gross in comparison to production budget. However, higher production budgets did not necessarily produce greater domestic gross. Some of the higher value relationships were closer to outlier data. Lower production budgets could have a slightly higher domestic gross in relation to a normal regression line.
 
-Side note: My graphs included subsets of 20 values as the random number of values to generate a good dispersion of data.
+Side note: My graphs included subsets of 20 values as the random number of values to generate a good dispersion of data. This is part of the data cleaning processes.  When too many or too few items are used in a dataset, the dataset may be much more difficult to interpret. My conclusions from the data are generated with cleaned data.
 
 ### Conclusions
 
 - IFC Films, Universal Studios, Paramount Pictures, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
 
-- According to IMDb datasets, "Inception", "The Dark Knight Rises", "Interstellar", "Django Unchained", and "Avengers" are the movies that received the most number of votes at IMDb.  They are great movies to look at for movie making based on their popularity.
+- According to IMDb datasets, "Inception", "The Dark Knight Rises", "Interstellar", "Django Unchained", and "Avengers" are the movies that received the most number of votes at IMDb.  They are great movies to watch for movie making purposes based on their popularity.
 
-- The "tn" movie dataset that was provided displays a fairly regular relationship between movie budget and domestic gross.  However, there were some higher budget movies in the dataset that might be considered outliers and did not necessarily produce higher domestic gross where as some lower budget movies in the dataset seemed to have the possibility of a slightly higher domestic gross.  The comparison is fairly normal, but there might be greater domestic gross for a movie with a lower production budget.
+- The "tn" movie dataset that was provided displays a fairly regular relationship between movie budget and domestic gross.  However, there were some higher budget movies in the dataset that might be considered outliers and did not necessarily produce higher domestic gross, where as some lower budget movies in the dataset seemed to have the possibility of a slightly higher domestic gross in relation to the normal regression line.  The comparison is fairly normal betweeen production budget and domestic gross, but there might be greater domestic gross for a movie with a lower production budget.
 
 ### Recommendations for Further Analysis
 
 - My analysis could improve with more specific resource information on the 'tn.movie_budgets.csv.gv' . I could not easily decipher the website this dataset related to from the information provided for this project. I need more information provided on where this dataset came from beyond "tn.movie_budgets.csv.gv".
 
-- A comparison could be made between production budget and worldwide gross for the "tn" movie dataset.  My analysis only covered the domestic gross for movies within the "tn" movie dataset. 
+- A comparison could be made between production budget and worldwide gross for the "tn" movie dataset.  My analysis only covered the production budget and domestic gross relationship for movies within the "tn" movie dataset. 
 
 - Some analyses on movies based on the year they were released might add more dimensions to my results. The history of a specific year can influence the movies that were released, how they were released, and why they were released.
 
-- The relationship between movie popularity and genre could be looked at. Certain movie genres may be more popular to use when creating a feature film.
+- The relationship between movies and genre popularity could be looked at. Certain movie genres may be more popular to use when creating a feature film.
 
 ### For More Information
 

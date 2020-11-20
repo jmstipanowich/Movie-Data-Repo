@@ -6,11 +6,11 @@ Author: James Stipanowich
 
 ## Introduction/Overview
 
-Microsoft wants to create movies, but their movie knowledge is limited and they want knowledge about the movie industry from me. This project explores three questions Microsoft might be able to ask about movies and the movie industry from a specified given group of movie datasets. I will discuss three questions Microsoft may pose about movies and how these questions influence movie making. The researched analyses from the obtained data can provide conclusions on what movies to make and how to go about navigating the movie industry. Also, information on movies could help with future movie analyses and express how to continue to improve the movie making process.
+Microsoft wants to create movies, but their movie knowledge is limited and they want knowledge about the movie industry from me. This project explores three questions Microsoft might ask about movies and the movie industry from a specified given group of movie datasets. I will discuss three questions Microsoft may pose about movies and how these questions influence movie making. The researched analyses from the obtained data can provide conclusions on what movies to make and how to go about navigating the movie industry. Also, information on movies could help with future movie analyses and give direction on how to continue to improve the movie-making process.
 
 ### Business Problem
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired me to help them better understand the movie industry. I am charged with exploring three questions about what type of films are currently doing the best at the box office. I must translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired me to help them better understand the movie industry. I am charged with exploring three questions about what types of film are currently doing the best at the box office. I must translate these findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what types of film to create.
 
 ### The Data
 
@@ -21,7 +21,7 @@ In the folder `zippedData` are movie datasets from:
 * Rotten Tomatoes
 * TheMovieDB.org
 
-I was given the choice what data from this to use and how to use it.
+I was given the choice of what data from these datasets to use and how to use it.
 
 These datasets were provided to me by Flatiron School for the Microsoft project.
 
@@ -30,15 +30,15 @@ These datasets were provided to me by Flatiron School for the Microsoft project.
 Microsoft wants to create movies. 
  
 
-Microsoft might want to know about which movie studios are popular for producing movies. A good movie studio choice could help a film succeed. One question Microsoft might ask is:
+Microsoft might want to know which movie studios are popular for producing movies. A good movie studio choice could help a film succeed. One question Microsoft might ask is:
 
 What studios produce the most motion pictures?
 
-I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. I did two analyses to answer this question. The first analysis determined the numbers of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset:
+I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. I performed two analyses to answer this question. The first analysis determined the number of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset:
 
 ![twenty movies studio head](MovieDataImages/moviestudios.png)
 
-Buena Vista (BV), Warner Brothers(WB), and Paramount/DreamWorks(P/DB) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
+Buena Vista(BV), Warner Brothers(WB), and Paramount/DreamWorks(P/DW) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
 
 The second analysis determined the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset 
 
@@ -55,12 +55,12 @@ Movie datasets provided for this project from The Internet Movie Database(IMDb) 
 
 ![movies by num votes](MovieDataImages/pinkgraph.png)
 
-After compiling the data from the IMDb datasets, "Inception", "The Dark Knight Rises", and "Interstellar" were the movies found to receive the most votes in the IMDb movie datasets.  These movies can be considered most popular in comparison to the whole dataset.
+After compiling the data from the IMDb datasets, "Inception," "The Dark Knight Rises," and "Interstellar" were the movies found to receive the most votes in the IMDb movie datasets.  These movies can be considered most popular in comparison to the whole dataset.
 
 
 Another aspect of movie creation that Microsoft might want to look into is how a movie production budget and the amount of money the movie makes interrelate. Microsoft might ask:
 
-How does production budget relate to domestic movie gross for movies?
+How does production budget relate to domestic gross for movies?
 
 The answer to this question can be determined using the "tn" dataset. 
 
@@ -72,11 +72,13 @@ Side note: My graphs included subsets of 20 values as the random number of value
 
 ### Conclusions
 
+Here are the findings in response to Microsoft's three questions:
+
 - IFC Films, Universal Studios, Paramount Pictures, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
 
-- According to IMDb datasets, "Inception", "The Dark Knight Rises", "Interstellar", "Django Unchained", and "Avengers" are the movies that received the most number of votes at IMDb.  They are great movies to watch for movie making purposes based on their popularity.
+- According to IMDb datasets, "Inception," "The Dark Knight Rises," "Interstellar," "Django Unchained," and "Avengers" are the movies that received the most number of votes at IMDb.  They are great movies to watch for movie-making purposes based on their popularity.
 
-- The "tn" movie dataset that was provided displays a fairly regular relationship between movie budget and domestic gross.  However, there were some higher budget movies in the dataset that might be considered outliers and did not necessarily produce higher domestic gross, where as some lower budget movies in the dataset seemed to have the possibility of a slightly higher domestic gross in relation to the normal regression line.  The comparison is fairly normal betweeen production budget and domestic gross, but there might be greater domestic gross for a movie with a lower production budget.
+- The "tn" movie dataset that was provided displays a fairly regular relationship between movie budget and domestic gross.  However, there were some higher budget movies in the dataset that might be considered outliers and did not necessarily produce higher domestic gross, whereas some lower budget movies in the dataset seemed to have the possibility of a slightly higher domestic gross in relation to the normal regression line.  The comparison is fairly normal betweeen production budget and domestic gross, but there might be greater domestic gross for a movie with a lower production budget.
 
 ### Recommendations for Further Analysis
 

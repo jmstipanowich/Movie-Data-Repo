@@ -38,7 +38,7 @@ I looked through a provided movie dataset from the Box Office Mojo website to an
 
 ![twenty movies studio head](MovieDataImages/moviestudios.png)
 
-Buena Vista (BV), Warner Brothers(WB), and Paramount/Dreamworks(P/DB) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
+Buena Vista (BV), Warner Brothers(WB), and Paramount/DreamWorks(P/DB) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
 
 The second analysis determined the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset 
 

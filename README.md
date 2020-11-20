@@ -44,7 +44,7 @@ The second analysis determined the number of movies created by the top 20 studio
 
 ![top twenty studios number](MovieDataImages/moviestudios2.png)
 
-This second analysis shows that IFC Films, Universal Studios, and Warner Brothers Studios produced the greatest number of films according to the Box Office Mojo dataset.
+This second analysis shows that IFC Films(IFC), Universal Studios(Uni.), and Warner Brothers Studios(WB) produced the greatest number of films according to the Box Office Mojo dataset.
 
 
 Microsoft might want to look at what specific movies in general are extremely popular. A movie as its own subset can provide a lot of information to a filmmaker. Microsoft might ask the question:

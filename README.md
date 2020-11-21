@@ -99,8 +99,13 @@ Here are the findings in response to Microsoft's three questions:
 ### Repository Structure
 
 ├── MovieDataImages
+
 ├── zippedData
+
 ├── MicrosoftMovieDataPowerpoint2.pdf
+
 ├── MovieDataAnalysis.ipynb
-└── README.md
-└── student.ipynb
+
+├──  README.md
+
+├── student.ipynb

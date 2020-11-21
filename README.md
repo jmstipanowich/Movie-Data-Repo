@@ -92,8 +92,15 @@ Here are the findings in response to Microsoft's three questions:
 
 ### For More Information
 
-- See the full analysis of my findings in my Jupyter notebook pdf
+- See the full analysis of my findings in MovieDataAnalysis.ipynb
 
 - Contact me at jmstipanowich@gmail.com
 
 ### Repository Structure
+
+├── MovieDataImages
+├── zippedData
+├── MicrosoftMovieDataPowerpoint2.pdf
+├── MovieDataAnalysis.ipynb
+└── README.md
+└── student.ipynb

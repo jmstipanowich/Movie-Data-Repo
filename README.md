@@ -80,7 +80,7 @@ Here are the findings in response to Microsoft's three questions:
 
 - According to IMDb datasets, "Inception," "The Dark Knight Rises," and "Interstellar" are the movies that received the most number of votes at IMDb.  They are great movies to watch for movie-making purposes based on their popularity. Also, they have higher than average run time minutes. Microsoft should make a movie with a longer run time because it could be more popular.
 
-- The Numbers movie dataset displays a fairly regular relationship between movie budget and domestic gross at lower values. Higher budget movies in the dataset might be considered outliers and did not necessarily produce higher domestic gross. Microsoft should make a movie with a lower production budget because there is less monetary risk involved.
+- The Numbers movie dataset displays a fairly regular relationship between production budget and domestic gross at lower values. Higher budget movies in the dataset might be considered outliers and did not necessarily produce higher domestic gross. Microsoft should make a movie with a lower production budget because there is less monetary risk involved.
 
 ### Recommendations for Further Analysis
 

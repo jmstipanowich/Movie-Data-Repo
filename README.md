@@ -28,7 +28,6 @@ These datasets were provided to me by Flatiron School for the Microsoft project.
 
 Microsoft wants to create movies. 
  
-
 Microsoft might want to know which movie studios are popular for producing movies. A good movie studio choice could help a film succeed. One question Microsoft might ask is:
 
 What studios are popular to collaborate with or investigate based on number of movies they produce?
@@ -44,7 +43,6 @@ The second analysis determined the number of movies created by the top 20 studio
 ![top twenty studios number](MovieDataImages/moviestudios2.png)
 
 This second analysis shows that IFC Films(IFC), Universal Studios(Uni.), and Warner Brothers Studios(WB) are considered popular because they produced the greatest number of films according to the Box Office Mojo dataset.
-
 
 Microsoft might want to look at what specific movies in general are extremely popular. A popular movie can provide a lot of information to a filmmaker. Popular movies could have specific traits about them that influence filmmaking such as run time minute totals. Microsoft might ask the question:
 

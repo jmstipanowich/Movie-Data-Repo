@@ -8,11 +8,11 @@ Author: James Stipanowich
 
 Microsoft wants to create movies, but their movie knowledge is limited. They want knowledge about the movie industry from me. This project explores three questions Microsoft might ask me about movies and the movie industry from a specified given group of movie datasets. Movies that do well at the box office are important to Microsoft. Microsoft plans to illicit information about movie-making to generate box office hits. My researched analyses from the obtained Microsoft movie data will determine what kinds of movies should be made for Microsoft and how to navigate a gigantic movie industry. Also, my uncovered conclusions can give direction on how to continue to improve the movie-making process.
 
-### Business Problem
+## Business Problem
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired me to help them better understand the movie industry. I am charged with exploring three questions about what types of film are currently doing the best at the box office. I must translate these findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what types of film to create.
 
-### The Data
+## The Data
 
 In the folder `zippedData` are movie datasets from:
 
@@ -22,9 +22,9 @@ In the folder `zippedData` are movie datasets from:
 
 I was given the choice of what data from these datasets to use and how to use it.
 
-### Movie Analysis Methods and Results
+## Movie Analysis Methods and Results
 
-Microsoft wants to create movies. 
+### Microsoft Question 1
  
 Microsoft might want to know which movie studios are popular for producing movies. A good movie studio choice could help a film succeed. One question Microsoft might ask is:
 
@@ -42,6 +42,8 @@ The second analysis determined the number of movies created by the top 20 studio
 
 This second analysis shows that IFC Films(IFC), Universal Studios(Uni.), and Warner Brothers Studios(WB) are considered popular because they produced the greatest number of films according to the Box Office Mojo dataset.
 
+### Microsoft Question 2
+
 Microsoft might want to look at what specific movies in general are extremely popular. A popular movie can provide a lot of information to a filmmaker. Popular movies could have specific traits about them that influence filmmaking such as run time minute totals. Microsoft might ask the question:
 
 What movies got the most votes online and what is a common trait these films share?
@@ -56,6 +58,8 @@ After compiling the data from the IMDb datasets, "Inception," "The Dark Knight R
 
 "Inception," "The Dark Knight Rises," and "Interstellar" were popular movies found to produce higher than average run time minutes.
 
+### Microsoft Question 3
+
 Another aspect of movie creation that Microsoft might want to look into is how a movie production budget and the amount of money the movie makes interrelate. Microsoft might ask:
 
 How does production budget relate to domestic gross for movies?
@@ -68,7 +72,7 @@ The scatter plot diagram of production budget and domestic gross displays movies
 
 Side note: My bar graphs included subsets of 20 values as the random number of values to generate a good dispersion of data. This is part of the data cleaning processes.  When too many or too few items are used in a dataset, the dataset may be much more difficult to interpret. My conclusions from the data are generated with cleaned data.
 
-### Conclusions
+## Conclusions
 
 Here are the findings in response to Microsoft's three questions:
 
@@ -78,7 +82,7 @@ Here are the findings in response to Microsoft's three questions:
 
 - The Numbers movie dataset displays a fairly regular relationship between production budget and domestic gross at lower values. Higher budget movies in the dataset might be considered outliers and did not necessarily produce higher domestic gross. Microsoft should make a movie with a lower production budget because there is less monetary risk involved.
 
-### Recommendations for Further Analysis
+## Recommendations for Further Analysis
 
 - A comparison could be made between production budget and worldwide gross from The Numbers movie dataset.  My analysis only covered the production budget and domestic gross relationship for movies within The Numbers movie dataset. 
 
@@ -86,13 +90,13 @@ Here are the findings in response to Microsoft's three questions:
 
 - The relationship between movies and genre popularity could be looked at. Certain movie genres may be more popular to use when creating a feature film.
 
-### For More Information
+## For More Information
 
 - See the full analysis of my findings in MovieDataAnalysis.ipynb
 
 - Contact me at jmstipanowich@gmail.com
 
-### Repository Structure
+## Repository Structure
 
 ├── MovieDataImages
 

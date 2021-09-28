@@ -26,7 +26,7 @@ I was given the choice of what data from these datasets to use and how to use it
 
 ### Microsoft Question 1
  
-Microsoft might want to know which movie studios are popular for producing movies. A good movie studio choice could help a film succeed. One question Microsoft might ask is:
+Microsoft might want to know which movie studios are popular for producing movies based on the number of films they produce. The number of films produced by a movie studio is an accurate metric to determine popularity of a movie studio because producing more movies could mean more exposure for a studio and a noticeably larger monetary presence by constructing more films than other studios. Microsoft could inact a movie studio partnership to help a film succeed commercially. Microsoft might ask: 
 
 What studios are popular to collaborate with or investigate based on number of movies they produce?
 

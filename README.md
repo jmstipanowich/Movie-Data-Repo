@@ -107,5 +107,3 @@ Here are the findings in response to Microsoft's three questions:
 ├── MovieDataAnalysis.ipynb
 
 ├── README.md
-
-├── student.ipynb

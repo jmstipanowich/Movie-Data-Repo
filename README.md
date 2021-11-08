@@ -70,8 +70,6 @@ The answer to this question can be determined using the The Numbers dataset.
 
 The scatter plot diagram of production budget and domestic gross displays movies have a fairly relative domestic gross in comparison to production budgets at lower values. Higher production budgets are closer to outlier data with relation to domestic gross. Lower production budgets are less risky.
 
-Side note: My bar graphs included subsets of 20 values as the random number of values to generate a good dispersion of data. This is part of the data cleaning processes.  When too many or too few items are used in a dataset, the dataset may be much more difficult to interpret. My conclusions from the data are generated with cleaned data.
-
 ## Conclusions
 
 Here are the findings in response to Microsoft's three questions:

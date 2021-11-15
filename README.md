@@ -30,17 +30,11 @@ Microsoft might want to know which movie studios are popular for producing movie
 
 What studios are popular to collaborate with or investigate based on number of movies they produce?
 
-I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. I performed two analyses to answer this question to show two different scales for the analyses. The first analysis determined the number of movies created per studio for the first 20 rows in the provided Box Office Mojo dataset:
-
-![twenty movies studio head](MovieDataImages/moviestudios.png)
-
-Buena Vista(BV), Warner Brothers(WB), and Paramount/DreamWorks(P/DW) studios produced the highest number of movies out of all the movies produced in the first twenty rows of the Box Office Mojo dataset.
-
-The second analysis determined the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset 
+I looked through a provided movie dataset from the Box Office Mojo website to answer this question for Microsoft. My intensive analysis determined the number of movies created by the top 20 studios ordered by number of movies per studio in the whole Box Office Mojo dataset 
 
 ![top twenty studios number](MovieDataImages/moviestudios2.png)
 
-This second analysis shows that IFC Films(IFC), Universal Studios(Uni.), and Warner Brothers Studios(WB) are considered popular because they produced the greatest number of films according to the Box Office Mojo dataset.
+This analysis shows that IFC Films(IFC), Universal Studios(Uni.), and Warner Brothers Studios(WB) are studios that are considered popular because they produced the greatest number of films according to the Box Office Mojo dataset.
 
 ### Microsoft Question 2
 
@@ -54,7 +48,7 @@ Movie datasets provided for this project from The Internet Movie Database(IMDb) 
 
 After compiling the data from the IMDb datasets, "Inception," "The Dark Knight Rises," and "Interstellar" were the specific movies found to receive the most votes in the IMDb movie datasets.  These movies can be considered most popular in comparison to the whole dataset.
 
-![popular movies by run times](MovieDataImages/poprunmovies.png)
+![popular movies by run times](MovieDataImages/poprunmoviesedited.png)
 
 "Inception," "The Dark Knight Rises," and "Interstellar" were popular movies found to produce higher than average run time minutes.
 
@@ -74,7 +68,7 @@ The scatter plot diagram of production budget and domestic gross displays movies
 
 Here are the findings in response to Microsoft's three questions:
 
-- IFC Films, Universal Studios, Paramount Pictures, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
+- IFC Films, Universal Studios, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
 
 - According to IMDb datasets, "Inception," "The Dark Knight Rises," and "Interstellar" are the movies that received the most number of votes at IMDb.  They are great movies to watch for movie-making purposes based on their popularity. Also, they have higher than average run time minutes. Microsoft should make a movie with a longer run time because it could be more popular.
 

@@ -6,7 +6,7 @@ Author: James Stipanowich
 
 ## Introduction/Overview
 
-Microsoft wants to create movies, but their movie knowledge is limited. They want knowledge about the movie industry from me. This project explores three questions Microsoft might ask me about movies and the movie industry from a specified given group of movie datasets. Movies that do well at the box office are important to Microsoft. Microsoft plans to illicit information about movie-making to generate box office hits. My researched analyses from the obtained Microsoft movie data will determine what kinds of movies should be made for Microsoft and how to navigate a gigantic movie industry. Also, my uncovered conclusions can give direction on how to continue to improve the movie-making process.
+Microsoft wants to create movies, but their movie knowledge is limited. They want knowledge about the movie industry from me. This project explores three questions Microsoft might ask about movies and the movie industry from a specified given group of movie datasets. Movies that do well at the box office are important to Microsoft. Microsoft plans to illicit information about movie-making to generate box office hits. My researched analyses from the obtained Microsoft movie data will determine what kinds of movies should be made for Microsoft and how to navigate a gigantic movie industry. Also, my uncovered conclusions can give direction on how to continue to improve the movie-making process.
 
 ## Business Problem
 
@@ -20,7 +20,7 @@ In the folder `zippedData` are movie datasets from:
 * IMDB
 * The Numbers
 
-I was given the choice of what data from these datasets to use and how to use it.
+The datasets contain statistical information that can be used to absorb many facets of the movie industry. I was given the choice of what data from these datasets to use and how to use it.
 
 ## Movie Analysis Methods and Results
 

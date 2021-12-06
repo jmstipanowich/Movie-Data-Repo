@@ -86,6 +86,8 @@ Here are the findings in response to Microsoft's three questions:
 
 - See the full analysis of my findings in MovieDataAnalysis.ipynb
 
+- Read about some additional movie data analyses related to this project in a blog at https://jmstipanowich.medium.com/how-to-create-a-successful-movie-based-on-analyses-of-movies-on-imdb-and-box-office-mojo-websites-3773419853da
+
 - Contact me at jmstipanowich@gmail.com
 
 ## Repository Structure

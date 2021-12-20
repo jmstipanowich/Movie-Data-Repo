@@ -1,8 +1,8 @@
 # Microsoft in the Movie Industry
 
-Author: James Stipanowich
-
 ![IMDb movie picture](MovieDataImages/TVlanding.png)
+
+Author: James Stipanowich
 
 ## Introduction/Overview
 

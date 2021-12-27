@@ -17,7 +17,7 @@ Microsoft sees all the big companies creating original video content and they wa
 In the folder `zippedData` are movie datasets from:
 
 * Box Office Mojo
-* IMDB
+* IMDb
 * The Numbers
 
 The datasets contain statistical information that can be used to absorb many facets of the movie industry. I was given the choice of what data from these datasets to use and how to use it.

@@ -68,7 +68,7 @@ The scatter plot diagram of production budget and domestic gross displays movies
 
 Here are the findings in response to Microsoft's three questions:
 
-- IFC Films, Universal Studios, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. They are popular studios to use or collaborate with for movie making.
+- IFC Films, Universal Studios, and Warner Brothers Studios created the most films in the Box Office Mojo dataset. Collaborate with these studios or analyze the monetary allocations of these studios when making a feature film because the massive amount of movies they produce make them popular and commercially successful studios.
 
 - According to IMDb datasets, "Inception," "The Dark Knight Rises," and "Interstellar" are the movies that received the most number of votes at IMDb.  They are great movies to watch for movie-making purposes based on their popularity. Also, they have higher than average run time minutes. Microsoft should make a movie with a longer run time because it could be more popular.
 
